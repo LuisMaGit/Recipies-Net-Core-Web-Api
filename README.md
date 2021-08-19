@@ -2,6 +2,6 @@
 
 ## Features
 - Authentication, Jwt
-- Sqlite databse
+- Sqlite DB
 - CRUD (EF)
 - Swagger
