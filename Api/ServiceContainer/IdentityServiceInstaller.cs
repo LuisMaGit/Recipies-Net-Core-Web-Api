@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 using Api.Configuration;
 using Api.Models;
 using Api.Models.Identity.DB;

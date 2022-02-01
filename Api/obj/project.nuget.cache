@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQhqwSdrIfPR3e1qcsJXm9n9E1jbljewPxO4uyNhTy0Gz/BFEMyi8B6gMA7FaW8RzAXrOshJUa5lbLhv2A5OFg==",
+  "dgSpecHash": "EvSjglONVNZIIrB/KVSwvuZroBPvUC7FxfgR0snXbcDPfNFws9+Ut1IvPHqeBNxkWSb99Nzg5yojb83gAoB5bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LuisMa\\Desktop\\Recipies Net Core Web Api\\Api\\Api.csproj",
+  "projectFilePath": "D:\\__Code Practice\\_My Repos\\dot Net\\Recipies Net Core Web Api\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LuisMa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\LuisMa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

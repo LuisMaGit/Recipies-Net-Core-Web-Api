@@ -231,7 +231,7 @@ namespace Api.Services.IdentityService
             {
                 return new AuthenticationResult
                 {
-                    Errors = new[] {"This token dont exits"}
+                    Errors = new[] {"This token don't exits"}
                 };
             }
 

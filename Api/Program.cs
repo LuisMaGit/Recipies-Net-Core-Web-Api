@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -19,6 +20,7 @@ namespace Api
         public static void AddAppConfiguration(HostBuilderContext hostingContext, IConfigurationBuilder config)
         {
             var env = hostingContext.HostingEnvironment; // se configura en el launch.json
+            Console.WriteLine(env.EnvironmentName);
             //Depende del orden 
             config
                 .AddJsonFile(path: "appsettings.json", optional: true)
